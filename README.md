@@ -2,7 +2,7 @@
 Simple file transfer application for sharing &amp; transferring files across platforms.
 
 
-<img src="https://github.com/geekykant/Filexa-File-Transfer/blob/master/screenshots/ouput.png">
+<img src="https://github.com/geekykant/Filexa-File-Transferer/blob/master/screenshots/ouput.png?raw=true">
 
 Features
 Got some suggestions:
